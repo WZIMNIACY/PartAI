@@ -3,6 +3,7 @@ using System.Text.Json;
 
 namespace game
 {
+    //Creating an instance of LLM
     public class LLM
     {
         private readonly string _endpoint;
@@ -25,14 +26,17 @@ namespace game
         }
 
 
-
-
+        // Creating API Request using LLM 
+        // System prompt - LLM Personality
+        // User prompt - Data to process
+        // maxTokens - 'Cost' of the request
         public async Task<string> SendRequestAsync(string systemPrompt, string userPrompt, int maxTokens = 256)
         {
             if (systemPrompt == null) throw new ArgumentNullException(nameof(systemPrompt));
             if (userPrompt == null) throw new ArgumentNullException(nameof(userPrompt));
             if (maxTokens <= 0) throw new ArgumentOutOfRangeException(nameof(maxTokens), "maxTokens must be > 0");
 
+            //Creating message pack for LLM
             var payload = new
             {
                 model = "deepseek-chat",  
@@ -47,7 +51,8 @@ namespace game
 
             string json = JsonSerializer.Serialize(payload);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
-
+            
+            //Sending request
             HttpResponseMessage response = await _httpClient.PostAsync(_endpoint, content);
             string responseJson = await response.Content.ReadAsStringAsync();
 
@@ -84,4 +89,5 @@ namespace game
 
 
     }
+
 }
