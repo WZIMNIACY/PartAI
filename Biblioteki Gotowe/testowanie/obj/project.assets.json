@@ -1,0 +1,169 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "FileOperations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/FileOperations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FileOperations.dll": {}
+        }
+      },
+      "game/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/game.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/game.dll": {}
+        }
+      },
+      "HintGenerating/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "FileOperations": "1.0.0",
+          "game": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HintGenerating.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HintGenerating.dll": {}
+        }
+      },
+      "Reaction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "FileOperations": "1.0.0",
+          "HintGenerating": "1.0.0",
+          "game": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Reaction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Reaction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileOperations/1.0.0": {
+      "type": "project",
+      "path": "../FileOperations/FileOperations.csproj",
+      "msbuildProject": "../FileOperations/FileOperations.csproj"
+    },
+    "game/1.0.0": {
+      "type": "project",
+      "path": "../game/game.csproj",
+      "msbuildProject": "../game/game.csproj"
+    },
+    "HintGenerating/1.0.0": {
+      "type": "project",
+      "path": "../HintGenerating/HintGenerating.csproj",
+      "msbuildProject": "../HintGenerating/HintGenerating.csproj"
+    },
+    "Reaction/1.0.0": {
+      "type": "project",
+      "path": "../Reaction/Reaction.csproj",
+      "msbuildProject": "../Reaction/Reaction.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "FileOperations >= 1.0.0",
+      "HintGenerating >= 1.0.0",
+      "Reaction >= 1.0.0",
+      "game >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\igorz\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\OneDrive\\Studia\\Rok 2\\Semestr 3\\Inzynieria Oprogramowania\\Kodowanie\\DoDev\\testowanie\\testowanie.csproj",
+      "projectName": "testowanie",
+      "projectPath": "D:\\OneDrive\\Studia\\Rok 2\\Semestr 3\\Inzynieria Oprogramowania\\Kodowanie\\DoDev\\testowanie\\testowanie.csproj",
+      "packagesPath": "C:\\Users\\igorz\\.nuget\\packages\\",
+      "outputPath": "D:\\OneDrive\\Studia\\Rok 2\\Semestr 3\\Inzynieria Oprogramowania\\Kodowanie\\DoDev\\testowanie\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\igorz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\OneDrive\\Studia\\Rok 2\\Semestr 3\\Inzynieria Oprogramowania\\Kodowanie\\DoDev\\FileOperations\\FileOperations.csproj": {
+              "projectPath": "D:\\OneDrive\\Studia\\Rok 2\\Semestr 3\\Inzynieria Oprogramowania\\Kodowanie\\DoDev\\FileOperations\\FileOperations.csproj"
+            },
+            "D:\\OneDrive\\Studia\\Rok 2\\Semestr 3\\Inzynieria Oprogramowania\\Kodowanie\\DoDev\\game\\game.csproj": {
+              "projectPath": "D:\\OneDrive\\Studia\\Rok 2\\Semestr 3\\Inzynieria Oprogramowania\\Kodowanie\\DoDev\\game\\game.csproj"
+            },
+            "D:\\OneDrive\\Studia\\Rok 2\\Semestr 3\\Inzynieria Oprogramowania\\Kodowanie\\DoDev\\HintGenerating\\HintGenerating.csproj": {
+              "projectPath": "D:\\OneDrive\\Studia\\Rok 2\\Semestr 3\\Inzynieria Oprogramowania\\Kodowanie\\DoDev\\HintGenerating\\HintGenerating.csproj"
+            },
+            "D:\\OneDrive\\Studia\\Rok 2\\Semestr 3\\Inzynieria Oprogramowania\\Kodowanie\\DoDev\\Reaction\\Reaction.csproj": {
+              "projectPath": "D:\\OneDrive\\Studia\\Rok 2\\Semestr 3\\Inzynieria Oprogramowania\\Kodowanie\\DoDev\\Reaction\\Reaction.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+C:\Users\igorz\Desktop\testowanie\testowanie\bin\Debug\net8.0\testowanie.exe
+C:\Users\igorz\Desktop\testowanie\testowanie\bin\Debug\net8.0\testowanie.deps.json
+C:\Users\igorz\Desktop\testowanie\testowanie\bin\Debug\net8.0\testowanie.runtimeconfig.json
+C:\Users\igorz\Desktop\testowanie\testowanie\bin\Debug\net8.0\testowanie.dll
+C:\Users\igorz\Desktop\testowanie\testowanie\bin\Debug\net8.0\testowanie.pdb
+C:\Users\igorz\Desktop\testowanie\testowanie\obj\Debug\net8.0\testowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorz\Desktop\testowanie\testowanie\obj\Debug\net8.0\testowanie.AssemblyInfoInputs.cache
+C:\Users\igorz\Desktop\testowanie\testowanie\obj\Debug\net8.0\testowanie.AssemblyInfo.cs
+C:\Users\igorz\Desktop\testowanie\testowanie\obj\Debug\net8.0\testowanie.csproj.CoreCompileInputs.cache
+C:\Users\igorz\Desktop\testowanie\testowanie\obj\Debug\net8.0\testowanie.dll
+C:\Users\igorz\Desktop\testowanie\testowanie\obj\Debug\net8.0\refint\testowanie.dll
+C:\Users\igorz\Desktop\testowanie\testowanie\obj\Debug\net8.0\testowanie.pdb
+C:\Users\igorz\Desktop\testowanie\testowanie\obj\Debug\net8.0\testowanie.genruntimeconfig.cache
+C:\Users\igorz\Desktop\testowanie\testowanie\obj\Debug\net8.0\ref\testowanie.dll
+C:\Users\igorz\Desktop\testowanie\testowanie\bin\Debug\net8.0\FileOperations.dll
+C:\Users\igorz\Desktop\testowanie\testowanie\bin\Debug\net8.0\Hint Generating.dll
+C:\Users\igorz\Desktop\testowanie\testowanie\bin\Debug\net8.0\FileOperations.pdb
+C:\Users\igorz\Desktop\testowanie\testowanie\bin\Debug\net8.0\Hint Generating.pdb
+C:\Users\igorz\Desktop\testowanie\testowanie\obj\Debug\net8.0\testowanie.csproj.AssemblyReference.cache
+C:\Users\igorz\Desktop\testowanie\testowanie\obj\Debug\net8.0\testowanie.csproj.Up2Date
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\bin\Debug\net8.0\testowanie.exe
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\bin\Debug\net8.0\testowanie.deps.json
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\bin\Debug\net8.0\testowanie.runtimeconfig.json
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\bin\Debug\net8.0\testowanie.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\bin\Debug\net8.0\testowanie.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\bin\Debug\net8.0\FileOperations.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\bin\Debug\net8.0\Hint Generating.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\bin\Debug\net8.0\FileOperations.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\bin\Debug\net8.0\Hint Generating.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\obj\Debug\net8.0\testowanie.csproj.AssemblyReference.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\obj\Debug\net8.0\testowanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\obj\Debug\net8.0\testowanie.AssemblyInfoInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\obj\Debug\net8.0\testowanie.AssemblyInfo.cs
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\obj\Debug\net8.0\testowanie.csproj.CoreCompileInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\obj\Debug\net8.0\testowanie.csproj.Up2Date
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\obj\Debug\net8.0\testowanie.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\obj\Debug\net8.0\refint\testowanie.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\obj\Debug\net8.0\testowanie.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\obj\Debug\net8.0\testowanie.genruntimeconfig.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\testowanie\obj\Debug\net8.0\ref\testowanie.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\bin\Debug\net8.0\testowanie.exe
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\bin\Debug\net8.0\testowanie.deps.json
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\bin\Debug\net8.0\testowanie.runtimeconfig.json
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\bin\Debug\net8.0\testowanie.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\bin\Debug\net8.0\testowanie.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\bin\Debug\net8.0\FileOperations.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\bin\Debug\net8.0\game.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\bin\Debug\net8.0\HintGenerating.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\bin\Debug\net8.0\Reaction.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\bin\Debug\net8.0\HintGenerating.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\bin\Debug\net8.0\game.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\bin\Debug\net8.0\FileOperations.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\bin\Debug\net8.0\Reaction.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\obj\Debug\net8.0\testowanie.csproj.AssemblyReference.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\obj\Debug\net8.0\testowanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\obj\Debug\net8.0\testowanie.AssemblyInfoInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\obj\Debug\net8.0\testowanie.AssemblyInfo.cs
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\obj\Debug\net8.0\testowanie.csproj.CoreCompileInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\obj\Debug\net8.0\testowanie.csproj.Up2Date
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\obj\Debug\net8.0\testowanie.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\obj\Debug\net8.0\refint\testowanie.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\obj\Debug\net8.0\testowanie.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\obj\Debug\net8.0\testowanie.genruntimeconfig.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\testowanie\obj\Debug\net8.0\ref\testowanie.dll
