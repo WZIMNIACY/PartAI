@@ -1,0 +1,39 @@
+C:\Users\igorz\Desktop\testowanie\Hint Generating\bin\Debug\net8.0\Hint Generating.deps.json
+C:\Users\igorz\Desktop\testowanie\Hint Generating\bin\Debug\net8.0\Hint Generating.dll
+C:\Users\igorz\Desktop\testowanie\Hint Generating\bin\Debug\net8.0\Hint Generating.pdb
+C:\Users\igorz\Desktop\testowanie\Hint Generating\obj\Debug\net8.0\Hint Generating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorz\Desktop\testowanie\Hint Generating\obj\Debug\net8.0\Hint Generating.AssemblyInfoInputs.cache
+C:\Users\igorz\Desktop\testowanie\Hint Generating\obj\Debug\net8.0\Hint Generating.AssemblyInfo.cs
+C:\Users\igorz\Desktop\testowanie\Hint Generating\obj\Debug\net8.0\Hint Generating.csproj.CoreCompileInputs.cache
+C:\Users\igorz\Desktop\testowanie\Hint Generating\obj\Debug\net8.0\Hint Generating.dll
+C:\Users\igorz\Desktop\testowanie\Hint Generating\obj\Debug\net8.0\refint\Hint Generating.dll
+C:\Users\igorz\Desktop\testowanie\Hint Generating\obj\Debug\net8.0\Hint Generating.pdb
+C:\Users\igorz\Desktop\testowanie\Hint Generating\obj\Debug\net8.0\ref\Hint Generating.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\Hint Generating\bin\Debug\net8.0\Hint Generating.deps.json
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\Hint Generating\bin\Debug\net8.0\Hint Generating.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\Hint Generating\bin\Debug\net8.0\Hint Generating.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\Hint Generating\obj\Debug\net8.0\Hint Generating.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\Hint Generating\obj\Debug\net8.0\Hint Generating.AssemblyInfoInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\Hint Generating\obj\Debug\net8.0\Hint Generating.AssemblyInfo.cs
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\Hint Generating\obj\Debug\net8.0\Hint Generating.csproj.CoreCompileInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\Hint Generating\obj\Debug\net8.0\Hint Generating.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\Hint Generating\obj\Debug\net8.0\refint\Hint Generating.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\Hint Generating\obj\Debug\net8.0\Hint Generating.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\Hint Generating\obj\Debug\net8.0\ref\Hint Generating.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\bin\Debug\net8.0\Hint Generating.deps.json
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\bin\Debug\net8.0\Hint Generating.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\bin\Debug\net8.0\Hint Generating.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\obj\Debug\net8.0\Hint Generating.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\obj\Debug\net8.0\Hint Generating.AssemblyInfoInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\obj\Debug\net8.0\Hint Generating.AssemblyInfo.cs
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\obj\Debug\net8.0\Hint Generating.csproj.CoreCompileInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\obj\Debug\net8.0\Hint Generating.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\obj\Debug\net8.0\refint\Hint Generating.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\obj\Debug\net8.0\Hint Generating.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\obj\Debug\net8.0\ref\Hint Generating.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\bin\Debug\net8.0\game.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\bin\Debug\net8.0\game.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\obj\Debug\net8.0\Hint Generating.csproj.AssemblyReference.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\obj\Debug\net8.0\Hint Gen.1DCF9D3B.Up2Date
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\bin\Debug\net8.0\FileOperations.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\Hint Generating\bin\Debug\net8.0\FileOperations.pdb
