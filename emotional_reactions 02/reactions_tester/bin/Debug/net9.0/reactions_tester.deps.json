@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "reactions_tester/1.0.0": {
+        "dependencies": {
+          "emotional_reactions": "1.0.0"
+        },
+        "runtime": {
+          "reactions_tester.dll": {}
+        }
+      },
+      "emotional_reactions/1.0.0": {
+        "runtime": {
+          "emotional_reactions.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "reactions_tester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "emotional_reactions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Zuza\Desktop\Studia - Ja\Semestr III\Inżynieria oprogramowania\projekt_tajniacy\02 emotional_reactions_code\emotional_reactions 02\emotional_reactions\bin\Debug\net9.0\emotional_reactions.deps.json
+C:\Users\Zuza\Desktop\Studia - Ja\Semestr III\Inżynieria oprogramowania\projekt_tajniacy\02 emotional_reactions_code\emotional_reactions 02\emotional_reactions\bin\Debug\net9.0\emotional_reactions.dll
+C:\Users\Zuza\Desktop\Studia - Ja\Semestr III\Inżynieria oprogramowania\projekt_tajniacy\02 emotional_reactions_code\emotional_reactions 02\emotional_reactions\bin\Debug\net9.0\emotional_reactions.pdb
+C:\Users\Zuza\Desktop\Studia - Ja\Semestr III\Inżynieria oprogramowania\projekt_tajniacy\02 emotional_reactions_code\emotional_reactions 02\emotional_reactions\obj\Debug\net9.0\emotional_reactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zuza\Desktop\Studia - Ja\Semestr III\Inżynieria oprogramowania\projekt_tajniacy\02 emotional_reactions_code\emotional_reactions 02\emotional_reactions\obj\Debug\net9.0\emotional_reactions.AssemblyInfoInputs.cache
+C:\Users\Zuza\Desktop\Studia - Ja\Semestr III\Inżynieria oprogramowania\projekt_tajniacy\02 emotional_reactions_code\emotional_reactions 02\emotional_reactions\obj\Debug\net9.0\emotional_reactions.AssemblyInfo.cs
+C:\Users\Zuza\Desktop\Studia - Ja\Semestr III\Inżynieria oprogramowania\projekt_tajniacy\02 emotional_reactions_code\emotional_reactions 02\emotional_reactions\obj\Debug\net9.0\emotional_reactions.csproj.CoreCompileInputs.cache
+C:\Users\Zuza\Desktop\Studia - Ja\Semestr III\Inżynieria oprogramowania\projekt_tajniacy\02 emotional_reactions_code\emotional_reactions 02\emotional_reactions\obj\Debug\net9.0\emotional_reactions.dll
+C:\Users\Zuza\Desktop\Studia - Ja\Semestr III\Inżynieria oprogramowania\projekt_tajniacy\02 emotional_reactions_code\emotional_reactions 02\emotional_reactions\obj\Debug\net9.0\refint\emotional_reactions.dll
+C:\Users\Zuza\Desktop\Studia - Ja\Semestr III\Inżynieria oprogramowania\projekt_tajniacy\02 emotional_reactions_code\emotional_reactions 02\emotional_reactions\obj\Debug\net9.0\emotional_reactions.pdb
+C:\Users\Zuza\Desktop\Studia - Ja\Semestr III\Inżynieria oprogramowania\projekt_tajniacy\02 emotional_reactions_code\emotional_reactions 02\emotional_reactions\obj\Debug\net9.0\ref\emotional_reactions.dll

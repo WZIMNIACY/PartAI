@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emotional_reactions", "emotional_reactions\emotional_reactions.csproj", "{DEC22ED9-A1C8-40CB-95D6-C79FE4A90E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reactions_tester", "reactions_tester\reactions_tester.csproj", "{F365F9CC-2E96-4C77-A395-C5C6F5106372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC22ED9-A1C8-40CB-95D6-C79FE4A90E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC22ED9-A1C8-40CB-95D6-C79FE4A90E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC22ED9-A1C8-40CB-95D6-C79FE4A90E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC22ED9-A1C8-40CB-95D6-C79FE4A90E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F365F9CC-2E96-4C77-A395-C5C6F5106372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F365F9CC-2E96-4C77-A395-C5C6F5106372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F365F9CC-2E96-4C77-A395-C5C6F5106372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F365F9CC-2E96-4C77-A395-C5C6F5106372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
