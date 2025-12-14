@@ -1,0 +1,33 @@
+C:\Users\igorz\Desktop\testowanie\FileOperations\bin\Debug\net8.0\FileOperations.deps.json
+C:\Users\igorz\Desktop\testowanie\FileOperations\bin\Debug\net8.0\FileOperations.dll
+C:\Users\igorz\Desktop\testowanie\FileOperations\bin\Debug\net8.0\FileOperations.pdb
+C:\Users\igorz\Desktop\testowanie\FileOperations\obj\Debug\net8.0\FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorz\Desktop\testowanie\FileOperations\obj\Debug\net8.0\FileOperations.AssemblyInfoInputs.cache
+C:\Users\igorz\Desktop\testowanie\FileOperations\obj\Debug\net8.0\FileOperations.AssemblyInfo.cs
+C:\Users\igorz\Desktop\testowanie\FileOperations\obj\Debug\net8.0\FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\igorz\Desktop\testowanie\FileOperations\obj\Debug\net8.0\FileOperations.dll
+C:\Users\igorz\Desktop\testowanie\FileOperations\obj\Debug\net8.0\refint\FileOperations.dll
+C:\Users\igorz\Desktop\testowanie\FileOperations\obj\Debug\net8.0\FileOperations.pdb
+C:\Users\igorz\Desktop\testowanie\FileOperations\obj\Debug\net8.0\ref\FileOperations.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\FileOperations\bin\Debug\net8.0\FileOperations.deps.json
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\FileOperations\bin\Debug\net8.0\FileOperations.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\FileOperations\bin\Debug\net8.0\FileOperations.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\FileOperations\obj\Debug\net8.0\FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\FileOperations\obj\Debug\net8.0\FileOperations.AssemblyInfoInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\FileOperations\obj\Debug\net8.0\FileOperations.AssemblyInfo.cs
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\FileOperations\obj\Debug\net8.0\FileOperations.csproj.CoreCompileInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\FileOperations\obj\Debug\net8.0\FileOperations.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\FileOperations\obj\Debug\net8.0\refint\FileOperations.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\FileOperations\obj\Debug\net8.0\FileOperations.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Do dev\FileOperations\obj\Debug\net8.0\ref\FileOperations.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\FileOperations\bin\Debug\net8.0\FileOperations.deps.json
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\FileOperations\bin\Debug\net8.0\FileOperations.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\FileOperations\bin\Debug\net8.0\FileOperations.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\FileOperations\obj\Debug\net8.0\FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\FileOperations\obj\Debug\net8.0\FileOperations.AssemblyInfoInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\FileOperations\obj\Debug\net8.0\FileOperations.AssemblyInfo.cs
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\FileOperations\obj\Debug\net8.0\FileOperations.csproj.CoreCompileInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\FileOperations\obj\Debug\net8.0\FileOperations.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\FileOperations\obj\Debug\net8.0\refint\FileOperations.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\FileOperations\obj\Debug\net8.0\FileOperations.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\DoDev\FileOperations\obj\Debug\net8.0\ref\FileOperations.dll
