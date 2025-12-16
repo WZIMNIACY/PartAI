@@ -8,7 +8,7 @@ namespace testowanie
         {
             try
             {
-                ReactionTesting.Test();
+                HintTesting.Test();
             }
             catch (System.Exception ex)
             {

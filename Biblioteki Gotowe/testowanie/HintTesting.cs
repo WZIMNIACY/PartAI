@@ -14,7 +14,7 @@ namespace testowanie
         public static void Test()
         {
 //### Hint Generating ###//
-            string vectorsPath = Path.Combine(Directory.GetCurrentDirectory(), "reducedVectorsBase.txt");
+            string vectorsPath = Path.Combine(Directory.GetCurrentDirectory(), "WordVectorBase.txt");
             string data = FileOp.Read(vectorsPath);
 
             //Creating llm connection
